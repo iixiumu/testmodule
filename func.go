@@ -2,6 +2,6 @@ package testmodule
 
 import "fmt"
 
-func say() {
+func Say() {
 	fmt.Println("hello world")
 }
